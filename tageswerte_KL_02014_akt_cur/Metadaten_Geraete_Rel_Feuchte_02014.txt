@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2014;Hannover;;;;;;19501231;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+2014;Hannover;9.7;52.46;51;2;19510101;19570331;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2014;Hannover;9.69;52.46;52;2;19570401;19641104;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2014;Hannover;9.71;52.46;53;2;19641105;19671004;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2014;Hannover;9.7;52.46;53;2;19671005;19920602;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2014;Hannover;9.68;52.46;55;2;19920603;20140929;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2014;Hannover;9.68;52.46;55;2;19920603;20080824;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2014;Hannover;9.68;52.46;55;2;20140930;;EE33;Feuchtemessung, elektr.;eor;
+generiert: 21.06.2017 --  Deutscher Wetterdienst  --

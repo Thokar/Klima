@@ -1,0 +1,22 @@
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\bin\Debug\KlimaRechner.exe.config
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\bin\Debug\produkt_klima_Tageswerte_19360101_20151231_02014.txt
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\bin\Debug\KlimaRechner.exe
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\bin\Debug\KlimaRechner.pdb
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\obj\Debug\KlimaRechner.csprojResolveAssemblyReference.cache
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\obj\Debug\KlimaRechner.Form1.resources
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\obj\Debug\KlimaRechner.Properties.Resources.resources
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\obj\Debug\KlimaRechner.csproj.GenerateResource.Cache
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\obj\Debug\KlimaRechner.exe
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\obj\Debug\KlimaRechner.pdb
+c:\users\karbe\documents\visual studio 2013\Projects\KlimaRechner\KlimaRechner\bin\Debug\produkt_klima_Tageswerte_20151126_20170528_02014.txt
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\bin\Debug\KlimaRechner.exe.config
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\obj\Debug\KlimaRechner.exe
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\obj\Debug\KlimaRechner.pdb
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\bin\Debug\produkt_klima_Tageswerte_19360101_20151231_02014.txt
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\bin\Debug\produkt_klima_Tageswerte_20151126_20170528_02014.txt
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\bin\Debug\KlimaRechner.exe
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\bin\Debug\KlimaRechner.pdb
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\obj\Debug\KlimaRechner.csprojResolveAssemblyReference.cache
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\obj\Debug\KlimaRechner.Form1.resources
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\obj\Debug\KlimaRechner.Properties.Resources.resources
+\\userdaten\Community_ESS\ESS\Karbe\Klima\Klima\KlimaRechner\obj\Debug\KlimaRechner.csproj.GenerateResource.Cache
